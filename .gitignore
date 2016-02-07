@@ -20,28 +20,10 @@ portal.sydney/bin/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
 build/
 bld/
 [Bb]in/
 [Oo]bj/
-
-# Visual Studo 2015 cache/options directory
-.vs/
-
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
-
-# NUNIT
-*.VisualState.xml
-TestResult.xml
-
-# Build Results of an ATL Project
-[Dd]ebugPS/
-[Rr]eleasePS/
-dlldata.c
 
 *_i.c
 *_p.c
@@ -84,36 +66,8 @@ ipch/
 *.vsp
 *.vspx
 
-# TFS 2012 Local Workspace
-$tf/
-
-# Guidance Automation Toolkit
-*.gpState
-
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# JustCode is a .NET coding addin-in
-.JustCode
-
 # TeamCity is a build add-in
 _TeamCity*
-
-# DotCover is a Code Coverage Tool
-*.dotCover
-
-# NCrunch
-_NCrunch_*
-.*crunch*.local.xml
-
-# MightyMoose
-*.mm.*
-AutoTest.Net/
-
-# Web workbench (sass)
-.sass-cache/
 
 # Installshield output folder
 [Ee]xpress/
